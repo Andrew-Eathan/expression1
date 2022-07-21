@@ -1,0 +1,12 @@
+{
+	"title"		:	"[Wiremod] Expression 1 GM13 Port",
+	"type"		:	"Tool",
+	"tags"		:	[ "fun", "build" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*",
+		"*.txt"
+	]
+}
